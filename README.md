@@ -58,7 +58,7 @@
 <h2>Installation Instructions</h2>
     <ol>
         <li><strong>Clone the Repository:</strong>
-        <pre><code>git clone https://github.com/yourusername/rock-paper-scissors-lizard-spock.git</code></pre></li>
+        <pre><code>git clone [https://github.com/yourusername/rock-paper-scissors-lizard-spock.git](https://github.com/Ganathipan/GP-106-Com-Project)</code></pre></li>
         <li><strong>Upload Code to Arduino:</strong> Open the <code>.ino</code> file in Arduino IDE and upload it to your Arduino UNO board.</li>
         <li><strong>Build the Circuit:</strong> Follow the provided circuit diagram to set up the hardware.</li>
         <li><strong>Start Playing:</strong> Press the "Start" button to begin playing the game.</li>
