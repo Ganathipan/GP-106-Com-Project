@@ -44,7 +44,7 @@
 
 
 <h2>Circuit Diagram</h2>
-    <p>You can find the circuit diagram in the <code>schematics/</code> folder or view it online <a href="#link-to-schematic">here</a>.</p>
+    <p>You can find the circuit diagram in the <code>schematics/</code> folder or view it online <a href="Circuite_Image.jfif">here</a>.</p>
 
  <h2>How to Play</h2>
     <ol>
