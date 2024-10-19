@@ -1,5 +1,5 @@
 <h1>Rock Paper Scissors Lizard Spock Game</h1>
-  <h4>A GP106 Computing Project</h3>
+  <h4>A GP106 Computing Project</h4>
   <p><em>Department of Computer Engineering, Faculty of Engineering, University of Peradeniya</em><br>
   <strong>Batch:</strong> E/21</p>
 
